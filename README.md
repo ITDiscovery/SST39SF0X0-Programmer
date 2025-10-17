@@ -13,6 +13,8 @@ The programmer consists of an Arduino sketch that acts as a hardware interface a
 * **Jumper Wires**: A good quality set is essential.
 * **Two 0.1µF Ceramic Capacitors**: For power decoupling.
 
+  Note: I tried initially to use a AVR128DA64, but timing and jitter created too many issues.
+
 ---
 ## Wiring Diagram
 
